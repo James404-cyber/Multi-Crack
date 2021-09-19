@@ -37,6 +37,6 @@ $ python2 Multi.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/Multi-Crack.git ; cd Multi-Crack ; python2 Multi.py
 ```
-INFO : (ALL TOOLS USER PASS TOOLS INSIDE JUST YOU CHEEK FIRST)</br>
+INFO : (No Needed)</br>
 
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
