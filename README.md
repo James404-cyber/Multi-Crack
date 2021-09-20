@@ -12,8 +12,7 @@ Multi facebook Cracking With Random Numbercloning
       MULTI FB AND PAK NUMBER ID CLONER
 </p>
 
-![20200808_160757](https://github.com/James404-cyber/Multi-Crack/blob/main/IMG-20210919-WA0083.jpg)
-
+![20200808_160757](https://github.com/James404-cyber/Multi-Crack/blob/main/20210920_144328.png)
 
 
 ## <b>installation</b>
