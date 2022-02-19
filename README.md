@@ -18,6 +18,8 @@ Multi facebook Cracking With Random Numbercloning
 ## <b>installation</b>
 
 ```
+$ cd
+$ rm -rf Multi-Crack
 $ pkg update
 $ pkg upgrade
 $ pkg install python
