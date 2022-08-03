@@ -2,12 +2,10 @@ import platform
 
 arc = str(platform.uname().machine)
 if 'arm' in arc:
-	import Fip
-	Fip._site_view_()
-	Fip.folder()
+	import Rank
+	Rank.ninex()
 elif 'aarch' in arc:
-	import Fip64
-	Fip64._site_view_()
-	Fip64.folder()
+	import Rank
+	Fip64.ninex()
 else:
 	exit(f' Unknow device machine {arc}')
