@@ -39,6 +39,6 @@ $
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/Multi-Crack.git ; cd Multi-Crack ; python2 Multi.py
 ```
-INFO : (Credit: By Risky Dev)</br>
+INFO : (Credit:..... )</br>
 
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
