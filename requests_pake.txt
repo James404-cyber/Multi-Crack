@@ -1,5 +1,0 @@
-mechanize
-requests
-bs4
-cython
-gTTS
