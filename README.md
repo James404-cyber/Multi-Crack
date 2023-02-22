@@ -30,7 +30,7 @@ $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/Multi-Crack.git
 $ cd Multi-Crack
-$ python Multi.py
+$ python Facebook.py
 $ 
 ```
 
