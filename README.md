@@ -33,6 +33,16 @@ $ cd Multi-Crack
 $ python Facebook.py
 $ 
 ```
+## <b>installation</b>
+
+```
+cd
+rm -rf Multi-Crack
+git clone https://github.com/James404-cyber/Multi-Crack.git
+cd Multi-Crack
+python Facebook.py
+
+```
 
 # Single Command 
 
